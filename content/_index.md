@@ -61,7 +61,7 @@ sections:
           location: Goa
           date_start: '2024-01-01'
           date_end: ''
-          description: Working on creating mutable smart contracts using the diamond standard (EIP-2535), assesing feasability and security
+          description: Working on creating mutable smart contracts using the diamond standard (EIP-2535), assessing feasability and security
 
         - title: Undergraduate Teaching Assistant
           company: Birla Institute of Technology and Science, Pilani
