@@ -237,7 +237,7 @@ sections:
       title: Contact
       subtitle:
       text: 
-      email: test@example.org
+      email: kulkarni.siddhant.03@gmail.com
       autolink: true
 
     design:
