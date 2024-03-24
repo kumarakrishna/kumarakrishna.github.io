@@ -57,7 +57,7 @@ sections:
         - title: Undergraduate Researcher
           company: Data, Systems and High Performance Computing Lab 
           company_url: ''
-          company_logo: dash
+          company_logo: dash_logo
           location: Goa
           date_start: '2024-01-01'
           date_end: ''
@@ -66,7 +66,7 @@ sections:
         - title: Undergraduate Teaching Assistant
           company: Birla Institute of Technology and Science, Pilani
           company_url: 'https://www.bits-pilani.ac.in/goa/'
-          company_logo: bits
+          company_logo: bits_logo
           location: Goa
           date_start: '2023-08-01'
           date_end: ''
@@ -80,7 +80,7 @@ sections:
         - title: Summer Intern
           company: Jio Platforms
           company_url: 'https://www.jio.com/platforms/'
-          company_logo: jio
+          company_logo: jio_logo
           date_start: '2023-06-01'
           date_end: '2023-08-01'
           description: Part of Jio Engage, worked on developing semantic segmentation models for face filters to boost user engagement
