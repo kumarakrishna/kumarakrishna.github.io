@@ -62,7 +62,7 @@ sections:
           date_start: '2023-08-01'
           date_end: ''
           description: |2-
-              Teaching Assistant for the courses
+              Teaching Assistant for the courses:
 
               * CS F241: Microprocessors and Interfacing
               * CS F214: Logic in Computer Science
@@ -74,7 +74,7 @@ sections:
           company_logo: jio
           date_start: '2023-06-01'
           date_end: '2023-08-01'
-          description: Part of Jio Engage, worked on developing semantic segmentation models for face filters to boost user engagement.
+          description: Part of Jio Engage, worked on developing semantic segmentation models for face filters to boost user engagement
 
     design:
       columns: '2'
