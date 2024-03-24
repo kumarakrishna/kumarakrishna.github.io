@@ -54,27 +54,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Undergraduate Teaching Assistant
+          company: Birla Institute of Technology and Science, Pilani
+          company_url: 'https://www.bits-pilani.ac.in/goa/'
+          company_logo: bits
+          location: Goa
+          date_start: '2023-08-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Teaching Assistant for the courses
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * CS F241: Microprocessors and Interfacing
+              * CS F214: Logic in Computer Science
+
+              Responsible for delivering tutorials, answering doubts and creating programming labs
+        - title: Summer Intern
+          company: Jio Platforms
+          company_url: 'https://www.jio.com/platforms/'
+          company_logo: jio
+          date_start: '2023-06-01'
+          date_end: '2023-08-01'
+          description: Part of Jio Engage, worked on developing semantic segmentation models for face filters to boost user engagement.
+
     design:
       columns: '2'
   - block: accomplishments
