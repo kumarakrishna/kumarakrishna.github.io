@@ -88,6 +88,14 @@ sections:
 
     design:
       columns: '2'
+
+  - block: markdown
+    content: |
+      ## Updates
+      
+      - **2024-03:** Added updates section to the website.
+      - **2024-02:** Updated homepage content.
+      - **2024-01:** Launched new blog section.
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
