@@ -105,7 +105,7 @@ social:
 highlight_name: true
 ---
 
-I am a computer science major with a minor in data science. Currently, I am working at the Data, Systems, and High-Performance Computing Lab under [Prof. Arnab K. Paul](https://arnabkrpaul.github.io/), focusing on upgradable smart contracts. I am also working with [Prof. Hemant Rathore](https://www.bits-pilani.ac.in/goa/hemant-rathore/) to explore how Membership Inference Attacks can enhance adversarial attacks in the field of Trustworthy Machine Learning. Previously, I interned at [Jio Platforms](https://www.jio.com/platforms/), where I contributed to creating face filters for [Jio Engage](https://jioengage.com/). 
+I am a computer science major with a minor in data science. Currently, I am working at the Data, Systems, and High-Performance Computing Lab under [Prof. Arnab K. Paul](https://arnabkrpaul.github.io/), focusing on upgradable smart contracts. I am also working with [Prof. Hemant Rathore](https://www.bits-pilani.ac.in/goa/hemant-rathore/) to explore how membership inference attacks can be leveraged to improve adversarial attacks in machine learning. Previously, I interned at [Jio Platforms](https://www.jio.com/platforms/), where I contributed to creating face filters for [Jio Engage](https://jioengage.com/). 
 
 In my free time, I love volunteering and have been an active part of [Nirmaan](https://nirmaan.org/), where I helped students from nearby underprivileged areas prepare for scholarship exams. I also enjoy competitive programming and am a core member of [AlgoManiaX](https://www.linkedin.com/company/algomaniax/).
 {style="text-align: justify;"}
