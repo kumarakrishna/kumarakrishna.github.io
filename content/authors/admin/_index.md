@@ -90,7 +90,7 @@ social:
     link: '/#contact'
   - icon: github
     icon_pack: fab
-    link: https://github.com/SiddhantKulkarni03
+    link: https://github.com/siddddk
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/siddhantkulkarni/
