@@ -95,11 +95,10 @@ sections:
       title: Updates
       subtitle: ""
       text: |
-        ## Updates
-
-        - **2024-03:** Added updates section to the website.
-        - **2024-02:** Updated homepage content.
-        - **2024-01:** Launched new blog section.
+      
+        - **2023-08:** TAing for the course CS F214: Logic in Computer Science course this semester
+        - **2023-07:** Will be working as an instructor for 'Introduction to Competitive Programming' as a part of [Quark Summer Technical Projects](https://unstop.com/events/quark-summer-techincal-projects-birla-institute-of-technology-and-sciences-bits-pilani-kk-birla-goa-campus-708142)
+        - **2023-06:** I will be working as a summer intern at [Jio Platforms](https://www.jio.com/platforms/)
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
