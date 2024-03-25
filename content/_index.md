@@ -99,7 +99,7 @@ sections:
         - **2024-01:** I will be TAing for the course CS F241: Microprocessors and Interfacing for Spring Semester '24
         - **2023-11:** I will be working as an undergraduate researcher at Data, Systems and High Performance Computing Lab at BITS Goa!
         - **2023-10:** Awarded the Merit Scholarship by my university for excellent academic performance (top 3%)
-        - **2023-08:** Got selected as a summer intern at [Atlassian](https://www.atlassian.com/)! I will be interning there for the following summer
+        - **2023-08:** Got selected as a software engineering intern at [Atlassian](https://www.atlassian.com/)! I will be interning there for the following summer
         - **2023-08:** I will be TAing for the course CS F214: Logic in Computer Science for Fall Semester '23
         - **2023-07:** Will be working as an instructor for 'Introduction to Competitive Programming' as a part of [Quark Summer Technical Projects](https://unstop.com/events/quark-summer-techincal-projects-birla-institute-of-technology-and-sciences-bits-pilani-kk-birla-goa-campus-708142)
         - **2023-06:** Two of my students who I taught as a volunteer for [Nirmaan](https://nirmaan.org/) qualified the JNV scholarship exam! I'm really proud of them!
