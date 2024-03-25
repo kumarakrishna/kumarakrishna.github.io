@@ -95,7 +95,7 @@ sections:
       title: Updates
       subtitle: ""
       text: |
-        - **2024-03:** Winner of the [Vimarsh 5G Hackathon](https://vimarsh.tcoe.in/) organized by the Bureau of Police Research & Development (BPR&D), Ministry of Home Affairs, Department of Telecom (DoT) and TCoE-India. Won a prize of Rs. 1,50,000
+        - **2024-03:** Winner of the [Vimarsh 5G Hackathon](https://vimarsh.tcoe.in/) organized by the Bureau of Police Research & Development (BPR&D), Ministry of Home Affairs, Department of Telecom (DoT) and TCoE-India. Won a prize of Rs. 1,50,000 for the problem statement of 'Secure 5G Routing Framework for a Private Network'
         - **2024-01:** TAing for the course CS F241: Microprocessors and Interfacing course this semester
         - **2023-11:** I will be working as an undergraduate researcher at Data, Systems and High Performance Computing Lab at BITS Goa!
         - **2023-10:** Awarded the Merit Scholarship by my university for excellent academic performance (top 3%)
