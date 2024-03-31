@@ -89,6 +89,43 @@ sections:
     design:
       columns: '2'
 
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Awards'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-03-20'
+          description: |2-
+            - Awarded first place in a **national hackathon** focused on addressing the needs of law enforcement agencies
+            - Developed a winning solution for the problem statement **‘Secure Routing Framework for a 5G Private Network’**, won a prize of **Rs. 1,50,000**
+          icon: vimarsh_logo
+          organization: Bureau of Police Research and Development, Ministry of Home Affairs, Department of Telecom and TCoE-India
+          organization_url: ''
+          title: Vimarsh 5G Hackathon Winner
+          url: 'https://vimarsh.tcoe.in/'
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-10-01'
+          description: Awarded the Institute Merit Scholarship, a tuition fee waiver for excellent academic performance (**top 3%**)
+          icon: bits_logo
+          organization: Birla Institute of Technology and Science, Pilani
+          organization_url: 
+          title: Institute Merit Scholarship
+          url: 'https://www.bits-pilani.ac.in/goa/'
+    design:
+      columns: '2'
+
   - block: markdown
     id: updates
     content:
