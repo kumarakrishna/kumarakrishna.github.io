@@ -120,9 +120,9 @@ sections:
           description: Awarded the Institute Merit Scholarship, a tuition fee waiver for excellent academic performance (**top 3%**)
           icon: bits_logo
           organization: Birla Institute of Technology and Science, Pilani
-          organization_url: 
+          organization_url: 'https://www.bits-pilani.ac.in/goa/'
           title: Institute Merit Scholarship
-          url: 'https://www.bits-pilani.ac.in/goa/'
+          url: ''
     design:
       columns: '2'
 
