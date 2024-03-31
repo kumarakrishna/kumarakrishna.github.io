@@ -117,7 +117,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-10-01'
-          description: Awarded the Institute Merit Scholarship, a tuition fee waiver for excellent academic performance (**top 3%**)
+          description: Awarded the Institute Merit Scholarship, a tuition fee waiver for excellent academic performance (**top 3%** of the graduating class)
           icon: bits_logo
           organization: Birla Institute of Technology and Science, Pilani
           organization_url: 'https://www.bits-pilani.ac.in/goa/'
