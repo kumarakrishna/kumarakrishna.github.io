@@ -6,6 +6,7 @@
 # Appearance
 
 appearance:
+  mode: system
   theme_day: minimal
   theme_night: minimal
   font: minimal
@@ -18,7 +19,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'Academic CV for Siddhant Kulkarni'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
