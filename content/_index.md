@@ -126,6 +126,8 @@ sections:
     design:
       columns: '2'
 
+<div style="overflow: auto; height:150pt; width:100%;">
+
   - block: markdown
     id: updates
     content:
@@ -141,6 +143,9 @@ sections:
         - **2023-07:** Will be working as an instructor for 'Introduction to Competitive Programming' as a part of [Quark Summer Technical Projects](https://unstop.com/events/quark-summer-techincal-projects-birla-institute-of-technology-and-sciences-bits-pilani-kk-birla-goa-campus-708142)
         - **2023-06:** Two of my students who I taught as a volunteer for [Nirmaan](https://nirmaan.org/) qualified the JNV scholarship exam! I'm really proud of them!
         - **2023-06:** I will be working as a summer intern at **[Jio Platforms](https://www.jio.com/platforms/)**
+
+</div>
+
 
   - block: contact
     id: contact
