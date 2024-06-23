@@ -55,14 +55,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Undergraduate Researcher
-          company: Data, Systems and High Performance Computing Lab 
-          company_url: ''
-          company_logo: dash_logo
-          location: Goa
-          date_start: '2023-11-01'
+        - title: Software Engineer Intern
+          company: Atlassian 
+          company_url: 'https://www.atlassian.com/'
+          company_logo: atlassian_logo
+          date_start: '2024-06-03'
           date_end: ''
-          description: Working on creating mutable smart contracts using the diamond standard (EIP-2535), assessing feasibility and security
+          description: Working on creating a way to retrieve repository data and Software Bill of Materials (SBOM), enabling insights into end-of-life dependencies, licensing, and compliance issues
+
+
+        # - title: Undergraduate Researcher
+        #   company: Data, Systems and High Performance Computing Lab 
+        #   company_url: ''
+        #   company_logo: dash_logo
+        #   location: Goa
+        #   date_start: '2023-11-01'
+        #   date_end: ''
+        #   description: Working on creating mutable smart contracts using the diamond standard (EIP-2535), assessing feasibility and security
 
         - title: Undergraduate Teaching Assistant
           company: Birla Institute of Technology and Science, Pilani
@@ -70,7 +79,7 @@ sections:
           company_logo: bits_logo
           location: Goa
           date_start: '2023-08-01'
-          date_end: ''
+          date_end: '2024-05-01'
           description: |2-
               Teaching Assistant for the courses:
 
@@ -78,6 +87,7 @@ sections:
               * CS F214: Logic in Computer Science
 
               Responsible for delivering tutorials, answering doubts and creating programming labs
+
         - title: Summer Intern
           company: Jio Platforms
           company_url: 'https://www.jio.com/platforms/'
