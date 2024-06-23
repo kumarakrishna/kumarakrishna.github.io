@@ -73,20 +73,20 @@ sections:
         #   date_end: ''
         #   description: Working on creating mutable smart contracts using the diamond standard (EIP-2535), assessing feasibility and security
 
-        - title: Undergraduate Teaching Assistant
-          company: Birla Institute of Technology and Science, Pilani
-          company_url: 'https://www.bits-pilani.ac.in/goa/'
-          company_logo: bits_logo
-          location: Goa
-          date_start: '2023-08-01'
-          date_end: '2024-05-01'
-          description: |2-
-              Teaching Assistant for the courses:
+        # - title: Undergraduate Teaching Assistant
+        #   company: Birla Institute of Technology and Science, Pilani
+        #   company_url: 'https://www.bits-pilani.ac.in/goa/'
+        #   company_logo: bits_logo
+        #   location: Goa
+        #   date_start: '2023-08-01'
+        #   date_end: '2024-05-01'
+        #   description: |2-
+        #       Teaching Assistant for the courses:
 
-              * CS F241: Microprocessors and Interfacing
-              * CS F214: Logic in Computer Science
+        #       * CS F241: Microprocessors and Interfacing
+        #       * CS F214: Logic in Computer Science
 
-              Responsible for delivering tutorials, answering doubts and creating programming labs
+        #       Responsible for delivering tutorials, answering doubts and creating programming labs
 
         - title: Summer Intern
           company: Jio Platforms
