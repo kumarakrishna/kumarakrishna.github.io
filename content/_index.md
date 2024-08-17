@@ -143,7 +143,7 @@ sections:
       title: Updates
       subtitle: ""
       text: |
-        - **2024-07:** Featured in the **Student Spotlight** of the [BITSology Newsletter Vol. 6](https://www.bits-pilani.ac.in/BITSology/) for winning the Vimarsh 5G Hackathon!
+        - **2024-07:** Featured in the **Student Spotlight** of the [BITSology Newsletter Vol. 6](https://www.bits-pilani.ac.in/BITSology/BITSology-June-2024/) for winning the Vimarsh 5G Hackathon!
         - **2024-06:** Started my summer internship at **[Atlassian](https://www.atlassian.com/)**. Very excited for the journey ahead!
         - **2024-03:** **Won the [Vimarsh 5G Hackathon](https://vimarsh.tcoe.in/)** organized by the Bureau of Police Research & Development, Ministry of Home Affairs, Department of Telecom and TCoE-India
         - **2024-01:** I will be TAing for the course CS F241: Microprocessors and Interfacing for Spring Semester '24
