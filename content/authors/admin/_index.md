@@ -107,6 +107,4 @@ highlight_name: true
 
 I am a pre-final year Computer Science undergraduate with a Data Science minor. Currently, I am working at the [Data, Systems, and High-Performance Computing Lab](https://arnabkrpaul.github.io/Dashlab/) under [Dr. Arnab K. Paul](https://arnabkrpaul.github.io/), focusing on upgradable smart contracts. I am also working under the guidance of [Dr. Hemant Rathore](https://www.bits-pilani.ac.in/goa/hemant-rathore/) to explore how membership inference attacks can enhance adversarial attacks in machine learning.
 
-Previously, I was a software engineering intern at [Atlassian](https://www.atlassian.com/). Before that, I interned at [Jio Platforms](https://www.jio.com/platforms/), where I developed semantic segmentation models for face filters to enhance user engagement.
-
 I’m a core member of [AlgoManiaX](https://www.linkedin.com/company/algomaniax/), my college’s competitive programming club, and have actively volunteered with [Nirmaan](https://nirmaan.org/) to help underprivileged students prepare for scholarship exams. I’m also a fan of rock music, particularly Radiohead, and I love the Dune books by Frank Herbert.
