@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Junior
+role: Computer Science Senior
 
 # Organizations/Affiliations to show in About widget
 organizations:
