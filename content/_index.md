@@ -143,13 +143,13 @@ sections:
       title: Updates
       subtitle: ""
       text: |
+        - **2024-10:** Two of the papers I worked on got accepted for **publication** and **presentation** at [IEEE Consumer Communications and Networking Conference](https://ccnc2025.ieee-ccnc.org/) (**IEEE CCNC 2025**)
         - **2024-07:** Featured in the **Student Spotlight** of the [BITSology Newsletter Vol. 6](https://www.bits-pilani.ac.in/BITSology/BITSology-June-2024/) for winning the Vimarsh 5G Hackathon!
         - **2024-06:** Started my summer internship at **[Atlassian](https://www.atlassian.com/)**. Very excited for the journey ahead!
         - **2024-03:** **Won the [Vimarsh 5G Hackathon](https://vimarsh.tcoe.in/)** organized by the Bureau of Police Research & Development, Ministry of Home Affairs, Department of Telecom and TCoE-India
         - **2024-01:** I will be TAing for the course CS F241: Microprocessors and Interfacing for Spring Semester '24
         - **2023-11:** I will be working as an undergraduate researcher at **Data, Systems and High Performance Computing Lab** at BITS Goa!
         - **2023-10:** Awarded the **Merit Scholarship** by my university
-        - **2023-08:** Got selected as a **software engineering intern** at **[Atlassian](https://www.atlassian.com/)**! I will be interning there for the following summer
         - **2023-08:** I will be TAing for the course CS F214: Logic in Computer Science for Fall Semester '23
         - **2023-07:** Will be working as an instructor for 'Introduction to Competitive Programming' as a part of [Quark Summer Technical Projects](https://unstop.com/events/quark-summer-techincal-projects-birla-institute-of-technology-and-sciences-bits-pilani-kk-birla-goa-campus-708142)
         - **2023-06:** Two of my students who I taught as a volunteer for [Nirmaan](https://nirmaan.org/) qualified the JNV scholarship exam! I'm really proud of them!
