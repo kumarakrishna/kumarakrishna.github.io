@@ -60,7 +60,7 @@ sections:
           company_url: 'https://www.atlassian.com/'
           company_logo: atlassian_logo
           date_start: '2024-06-03'
-          date_end: ''
+          date_end: '2024-07-26'
           description: Working on creating a way to retrieve repository data and Software Bill of Materials (SBOM), enabling insights into end-of-life dependencies, licensing, and compliance issues
 
 
