@@ -105,6 +105,6 @@ social:
 highlight_name: true
 ---
 
-I am a pre-final year Computer Science undergraduate with a Data Science minor. Currently, I am working at the [Data, Systems, and High-Performance Computing Lab](https://arnabkrpaul.github.io/Dashlab/) under [Dr. Arnab K. Paul](https://arnabkrpaul.github.io/), focusing on upgradable smart contracts. I am also working under the guidance of [Dr. Hemant Rathore](https://www.bits-pilani.ac.in/goa/hemant-rathore/) to explore how membership inference attacks can enhance adversarial attacks in machine learning.
+I am a final year Computer Science undergraduate with a Data Science minor. Currently, I am working at the [Data, Systems, and High-Performance Computing Lab](https://arnabkrpaul.github.io/Dashlab/) under [Dr. Arnab K. Paul](https://arnabkrpaul.github.io/), focusing on upgradable smart contracts. I am also working under the guidance of [Dr. Hemant Rathore](https://www.bits-pilani.ac.in/goa/hemant-rathore/) to explore how membership inference attacks can enhance adversarial attacks in machine learning.
 
-I’m a core member of [AlgoManiaX](https://www.linkedin.com/company/algomaniax/), my college’s competitive programming club, and have actively volunteered with [Nirmaan](https://nirmaan.org/) to help underprivileged students prepare for scholarship exams. I’m also a fan of rock music, particularly Radiohead, and I love the Dune books by Frank Herbert.
+I’m a core member of [AlgoManiaX](https://www.linkedin.com/company/algomaniax/), my university's competitive programming club, and have actively volunteered with [Nirmaan](https://nirmaan.org/) to help underprivileged students prepare for scholarship exams. I’m also a fan of rock music, particularly Radiohead, and I love the Dune books by Frank Herbert.
