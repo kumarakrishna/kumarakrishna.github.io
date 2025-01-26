@@ -56,6 +56,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Software Engineer Intern
+          company: Google 
+          company_url: 'https://www.google.com/'
+          company_logo: google_logo
+          date_start: '2025-01-20'
+
+        - title: Software Engineer Intern
           company: Atlassian 
           company_url: 'https://www.atlassian.com/'
           company_logo: atlassian_logo
