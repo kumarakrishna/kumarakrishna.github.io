@@ -55,13 +55,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Software Engineer Intern
+        - title: Software Engineering Intern
           company: Google 
           company_url: 'https://www.google.com/'
           company_logo: google_logo
           date_start: '2025-01-20'
 
-        - title: Software Engineer Intern
+        - title: Software Engineering Intern
           company: Atlassian 
           company_url: 'https://www.atlassian.com/'
           company_logo: atlassian_logo
@@ -149,6 +149,7 @@ sections:
       title: Updates
       subtitle: ""
       text: |
+        - **2025-01:** Started my **winter internship** at [**Google**](https://www.google.com/) as a **Software Engineering Intern**.
         - **2024-10:** Two of the papers I worked on got accepted for **publication** and **presentation** at [IEEE Consumer Communications and Networking Conference](https://ccnc2025.ieee-ccnc.org/) (**IEEE CCNC 2025**)
         - **2024-07:** Featured in the **Student Spotlight** of the [BITSology Newsletter Vol. 6](https://www.bits-pilani.ac.in/BITSology/BITSology-June-2024/) for winning the Vimarsh 5G Hackathon!
         - **2024-06:** Started my summer internship at **[Atlassian](https://www.atlassian.com/)**. Very excited for the journey ahead!
