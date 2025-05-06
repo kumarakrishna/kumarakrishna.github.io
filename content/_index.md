@@ -60,6 +60,7 @@ sections:
           company_url: 'https://www.google.com/'
           company_logo: google_logo
           date_start: '2025-01-20'
+          description: Working on the information retrieval cost metering platform.
 
         - title: Software Engineering Intern
           company: Atlassian 
@@ -67,7 +68,7 @@ sections:
           company_logo: atlassian_logo
           date_start: '2024-06-03'
           date_end: '2024-07-26'
-          description: Working on creating a way to retrieve repository data and Software Bill of Materials (SBOM), enabling insights into end-of-life dependencies, licensing, and compliance issues
+          description: Worked on creating a way to retrieve repository data and Software Bill of Materials (SBOM), enabling insights into end-of-life dependencies, licensing, and compliance issues
 
 
         # - title: Undergraduate Researcher
