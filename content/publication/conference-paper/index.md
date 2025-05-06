@@ -1,20 +1,15 @@
 ---
-title: 'An example conference paper'
+title: 'DNN-GRAD: Exploiting Membership Inference for Adversarial Attacks on Malware Detection Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - Hemant Rathore
 
 date: '2013-07-01T00:00:00Z'
-doi: ''
+doi: '10.1109/CCNC54725.2025.10975992'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -25,54 +20,20 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)*
+publication_short: In *IEEE CCNC 2025*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Android is currently the most dominant mobile operating system, with over 70 % of smartphones using it. This widespread adoption makes malware developers target Android devices to exploit security vulnerabilities. Current mal ware de-tection solutions use a combination of traditional signature and heuristics-based methods along with newer machine learning-based methods for protection against evolving malware attacks. While effective, machine learning models are often vulnerable to adversarial attacks. Adversaries can carefully perturb malware samples to evade detection by these models. Furthermore, these models are known to leak information about their training data, which adversaries can exploit to infer private and sensitive information via membership inference attacks. In this study, we propose a novel method to exploit membership information to improve the effectiveness of adversarial attacks. This method effectively selects a subset of available data using membership information leaked from the target model, allowing one to better approximate the target model's training data. Training a local model with the selected data, we demonstrate that an attacker can improve the effectiveness of the attack, achieving a 17 % increase in fooling rate while using 15 % less data compared to using all available data. We then propose DNN-GRAD, a grey-box gradient-based adversarial attack which, by using this leaked membership information, achieves a fooling rate of 56.69 % against various machine learning-based malware detectors. We also demonstrate that a combination of defences like adversarial training and regularization reduces the fooling rate by 46 % reduction in fooling rate across various model architectures.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 {{% callout note %}}

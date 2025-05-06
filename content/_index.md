@@ -105,6 +105,17 @@ sections:
     design:
       columns: '2'
 
+  - block: collection
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+
   - block: accomplishments
     id: awards
     content:
