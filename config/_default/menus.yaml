@@ -10,15 +10,18 @@ main:
   - name: Experience
     url: '#experiences'
     weight: 20
+  - name: Publications
+    url: '#publications'
+    weight: 30
   - name: Awards
     url: '#awards'
-    weight: 30
+    weight: 40
   - name: Updates
     url: '#updates'
-    weight: 40
+    weight: 50
   - name: Resume
     url: uploads/resume.pdf
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
