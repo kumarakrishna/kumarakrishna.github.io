@@ -121,8 +121,11 @@ sections:
           organization: DFRWS APAC 2024 Conference
           organization_url: 'https://dfrws.org/conferences/dfrws-apac-2024/'
           date_start: '2024-10-10'
-          description: Awarded the **Best Paper Award** at the **DFRWS APAC 2024 Conference**
-          icon: DFRWS
+          description: |2-
+            <img src="/images/DFRWS.jpeg" alt="DFRWS Logo" style="height:40px; margin-right:10px; vertical-align:middle;" />
+            Awarded the **Best Paper Award** at the **DFRWS APAC 2024 Conference**
+          icon: ''
+
 
         - title: Vimarsh 5G Hackathon Winner
           organization: Bureau of Police Research and Development, Ministry of Home Affairs, and TCoE-India
