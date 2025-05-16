@@ -1,11 +1,12 @@
 ---
 title: 'Linear Decision Trees: A Comparative Study with Insights on ReLU Neural Networks'
 authors:
-  - 'Nirmal Govindaraj <span title="Equal Contribution">ℹ️</span>'
-  - '<strong>Kumarakrishna Valeti</strong> <span title="Equal Contribution">ℹ️</span>'
-  - 'Siddhant Kulkarni <span title="Equal Contribution">ℹ️</span>'
-  - 'Nandan Surani <span title="Equal Contribution">ℹ️</span>'
+  - 'Nirmal Govindaraj†'
+  - '**Kumarakrishna Valeti**†'
+  - 'Siddhant Kulkarni†'
+  - 'Nandan Surani†'
   - 'Hemant Rathore'
+footnote: '† Equal contribution'
 date: '2025-01-01'
 publishDate: '2025-05-06T12:10:20.193877Z'
 publication_types:
