@@ -55,20 +55,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Software Engineering Intern
-          company: Google 
-          company_url: 'https://www.google.com/'
+        - title: Machine Learning Intern
+          company: TELUS Digital 
+          company_url: 'https://www.telusdigital.com/solutions/data-and-ai-solutions'
           company_logo: google_logo
-          date_start: '2025-01-20'
-          description: Working on the information retrieval cost metering platform.
+          date_start: '2025-01-15'
+          description: Fine-tuned all-mpnet-base-v2 for semantic matching of job attributes (>98% accuracy) and Optimized inference for LLaMA 8B using quantization, speculative decoding, and vLLM
 
-        - title: Software Engineering Intern
-          company: Atlassian 
+        - title: Machine Learning Intern
+          company: MASTH (UltraHive Healthcare Pvt Ltd)
           company_url: 'https://www.atlassian.com/'
           company_logo: atlassian_logo
-          date_start: '2024-06-03'
-          date_end: '2024-07-26'
-          description: Worked on creating a way to retrieve repository data and Software Bill of Materials (SBOM), enabling insights into end-of-life dependencies, licensing, and compliance issues
+          date_start: '2023-05-01'
+          date_end: '2023-07-31'
+          description: Built models to detect emotion from journal entries (up to 97% accuracy) and Developed Flask APIs and Android mock apps for deployment testing
 
 
         # - title: Undergraduate Researcher
@@ -94,14 +94,6 @@ sections:
         #       * CS F214: Logic in Computer Science
 
         #       Responsible for delivering tutorials, answering doubts and creating programming labs
-
-        - title: Summer Intern
-          company: Jio Platforms
-          company_url: 'https://www.jio.com/platforms/'
-          company_logo: jio_logo
-          date_start: '2023-06-01'
-          date_end: '2023-08-01'
-          description: Part of Jio Engage, worked on developing semantic segmentation models for face filters to boost user engagement
 
     design:
       columns: '2'
@@ -181,8 +173,16 @@ sections:
       title: Contact
       subtitle:
       text: 
-      email: kulkarni.siddhant.03@gmail.com
+      email: kumarakrishnavaleti@gmail.com
       autolink: true
+      links:
+        - icon: at-symbol
+          url: 'mailto:kumarakrishnavaleti@gmail.com'
+          label: Email Me
+        - icon: brands/x
+          url: https://x.com/KumarakrishnaV
+        - icon: brands/linkedin
+          url: https://www.linkedin.com/in/kumarakrishna-valeti-b53736228/
 
     design:
       columns: '2'
