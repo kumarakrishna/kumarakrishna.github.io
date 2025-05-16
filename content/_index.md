@@ -42,28 +42,31 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      
+
   - block: experience
     id: experiences
     content:
       title: Experience
       date_format: Jan 2006
-    items:
-      - title: Machine Learning Intern
-        company: TELUS Digital
-        company_url: 'https://www.telusdigital.com/solutions/data-and-ai-solutions'
-        company_logo: Telus (1)
-        date_start: '2025-01-15'
-        description: Fine-tuned all-mpnet-base-v2 for mapping job titles, degrees, and majors to predefined lists, achieving >98% accuracy. Optimized inference for a fine-tuned LLaMA 8B Instruct model using bits-and-bytes quantization, speculative decoding, structured outputs, and prefix caching with vLLM.
+      items:
+        - title: Machine Learning Intern
+          company: TELUS Digital
+          company_url: 'https://www.telusdigital.com/solutions/data-and-ai-solutions'
+          company_logo: Telus (1)
+          date_start: '2025-01-15'
+          description: Fine-tuned all-mpnet-base-v2 for mapping job titles, degrees, and majors to predefined lists, achieving >98% accuracy. Optimized inference for a fine-tuned LLaMA 8B Instruct model using bits-and-bytes quantization, speculative decoding, structured outputs, and prefix caching with vLLM.
 
-      - title: Machine Learning Intern
-        company: MASTH (UltraHive Healthcare Pvt Ltd)
-        company_url: 'https://www.linkedin.com/company/masth/?originalSubdomain=in'
-        company_logo: Masth (1)
-        date_start: '2023-05-01'
-        date_end: '2023-07-31'
-        description: Developed machine learning and deep learning models to detect emotions from text journal entries, achieving up to 97% accuracy using GloVe embeddings and TF-IDF vectorizer. Created Flask APIs and a mock app using Android Studio for testing before integration into the MASTH app.
+        - title: Machine Learning Intern
+          company: MASTH (UltraHive Healthcare Pvt Ltd)
+          company_url: 'https://www.linkedin.com/company/masth/?originalSubdomain=in'
+          company_logo: Masth (1)
+          date_start: '2023-05-01'
+          date_end: '2023-07-31'
+          description: Developed machine learning and deep learning models to detect emotions from text journal entries, achieving up to 97% accuracy using GloVe embeddings and TF-IDF vectorizer. Created Flask APIs and a mock app using Android Studio for testing before integration into the MASTH app.
+      design:
+        columns: '2'
 
+      
         # - title: Undergraduate Researcher
         #   company: Data, Systems and High Performance Computing Lab 
         #   company_url: ''
@@ -87,9 +90,6 @@ sections:
         #       * CS F214: Logic in Computer Science
 
         #       Responsible for delivering tutorials, answering doubts and creating programming labs
-
-    design:
-      columns: '2'
 
   - block: collection
     id: publications
