@@ -46,23 +46,16 @@ sections:
     id: experiences
     content:
       title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
     items:
       - title: Machine Learning Intern
-        company: TELUS Digital 
+        company: TELUS Digital
         company_url: 'https://www.telusdigital.com/solutions/data-and-ai-solutions'
         company_logo: Telus (1)
         date_start: '2025-01-15'
         description: |2-
-          - Fine-tuned all-mpnet-base-v2 for mapping job titles, degrees, and majors to predefined lists, achieving >98% accuracy
-          - Optimized inference for a fine-tuned LLaMA 8B Instruct model using bits-and-bytes quantization, speculative decoding, structured outputs, and prefix caching with vLLM
+          Fine-tuned all-mpnet-base-v2 for mapping job titles, degrees, and majors to predefined lists, achieving >98% accuracy.
+          Optimized inference for a fine-tuned LLaMA 8B Instruct model using bits-and-bytes quantization, speculative decoding, structured outputs, and prefix caching with vLLM.
 
       - title: Machine Learning Intern
         company: MASTH (UltraHive Healthcare Pvt Ltd)
@@ -71,9 +64,8 @@ sections:
         date_start: '2023-05-01'
         date_end: '2023-07-31'
         description: |2-
-          - Developed machine learning and deep learning based models to detect emotions from text journal entries, achieving a maximum accuracy of 97% using GloVe embeddings and TF-IDF vectoriser
-          - Created Flask APIs and a mock app using Android Studio for testing before integration into the MASTH app
-
+          Developed machine learning and deep learning models to detect emotions from text journal entries, achieving up to 97% accuracy using GloVe embeddings and TF-IDF vectorizer.
+          Created Flask APIs and a mock app using Android Studio for testing before integration into the MASTH app.
 
         # - title: Undergraduate Researcher
         #   company: Data, Systems and High Performance Computing Lab 
