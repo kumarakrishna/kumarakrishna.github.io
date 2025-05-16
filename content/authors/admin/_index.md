@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Siddhant Kulkarni
+title: Kumarakrishna Valeti
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Siddhant
-last_name: Kulkarni
+first_name: Kumarakrishna
+last_name: Valeti
 
 # Status emoji
 status:
@@ -31,7 +31,6 @@ bio:
 interests:
   - Trustworthy Machine Learning
   - Deep Learning
-  - Blockchain
 
 # Education to show in About widget
 education:
@@ -84,16 +83,18 @@ skills: ''
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/siddddk
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/siddhantkulkarni/
+profiles:
+  - icon: at-symbol
+    url: 'mailto:kumarakrishnavaleti@gmail.com'
+    label: Email Me
+  - icon: brands/x
+    url: https://x.com/KumarakrishnaV
+  - icon: brands/github
+    url: https://github.com/kumarakrishna
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/kumarakrishna-valeti-b53736228/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=0pKKeXAAAAAJ&hl=en
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -105,6 +106,4 @@ social:
 highlight_name: true
 ---
 
-I am a final year Computer Science undergraduate with a Data Science minor. Currently, I am working at Google as a Software Engineer Intern. I have previously worked at the [Data, Systems, and High-Performance Computing Lab](https://arnabkrpaul.github.io/Dashlab/) under [Dr. Arnab K. Paul](https://arnabkrpaul.github.io/), focusing on upgradable smart contracts. I have also worked under the guidance of [Dr. Hemant Rathore](https://www.bits-pilani.ac.in/goa/hemant-rathore/) to explore how membership inference attacks can enhance adversarial attacks in machine learning.
-
-I’m a core member of [AlgoManiaX](https://www.linkedin.com/company/algomaniax/), my university's competitive programming club, and have actively volunteered with [Nirmaan](https://nirmaan.org/) to help underprivileged students prepare for scholarship exams. I’m also a fan of rock music, particularly Radiohead, and I love the Dune books by Frank Herbert.
+I am a final year Computer Science undergraduate with a Data Science minor.
