@@ -129,8 +129,7 @@ sections:
           organization_url: 'https://vimarsh.tcoe.in/'
           date_start: '2024-03-20'
           description: |2-
-            - Winner of **Vimarsh 5G Hackathon**  
-            - Developed a solution for **‘Secure Routing Framework for a 5G Private Network’**  
+            - Developed a ML-based Intrusion Detection System.
             - Won a prize of **Rs. 1,50,000**
           icon: vimarsh_logo
           url: 'https://vimarsh.tcoe.in/'
@@ -139,14 +138,14 @@ sections:
           organization: Innovation, Incubation & Entrepreneurship Society, BITS Goa
           organization_url: 'https://www.bits-pilani.ac.in/goa/'
           date_start: '2023-11-01'
-          description: Received the **SOLVE grant** for supporting an innovative student-led research project
+          description: Received the **SOLVE grant** for a **Robust Intrusion Detection System** project with funding of **Rs. 1 Lakh**
           icon: BGIIES (1)
 
-        - title: IEEE CIS Grant
+        - title: IEEE CIS Travel Grant
           organization: IEEE Computational Intelligence Society
           organization_url: 'https://cis.ieee.org/'
           date_start: '2025-05-06'
-          description: Awarded a research **grant** by the **IEEE Computational Intelligence Society**
+          description: Awarded a travel **grant** by the **IEEE Computational Intelligence Society** for presenting at **IJCNN 2025 Conference**
           icon: IEEE
     design:
       columns: '2'
@@ -158,18 +157,22 @@ sections:
       title: Updates
       subtitle: ""
       text: |
-        - **2025-01:** Started my **winter internship** at [**Google**](https://www.google.com/) as a **Software Engineering Intern**.
-        - **2024-10:** Two of the papers I worked on got accepted for **publication** and **presentation** at [IEEE Consumer Communications and Networking Conference](https://ccnc2025.ieee-ccnc.org/) (**IEEE CCNC 2025**)
-        - **2024-07:** Featured in the **Student Spotlight** of the [BITSology Newsletter Vol. 6](https://www.bits-pilani.ac.in/BITSology/BITSology-June-2024/) for winning the Vimarsh 5G Hackathon!
-        - **2024-06:** Started my summer internship at **[Atlassian](https://www.atlassian.com/)**. Very excited for the journey ahead!
-        - **2024-03:** **Won the [Vimarsh 5G Hackathon](https://vimarsh.tcoe.in/)** organized by the Bureau of Police Research & Development, Ministry of Home Affairs, Department of Telecom and TCoE-India
-        - **2024-01:** I will be TAing for the course CS F241: Microprocessors and Interfacing for Spring Semester '24
-        - **2023-11:** I will be working as an undergraduate researcher at **Data, Systems and High Performance Computing Lab** at BITS Goa!
-        - **2023-10:** Awarded the **Merit Scholarship** by my university
-        - **2023-08:** I will be TAing for the course CS F214: Logic in Computer Science for Fall Semester '23
-        - **2023-07:** Will be working as an instructor for 'Introduction to Competitive Programming' as a part of [Quark Summer Technical Projects](https://unstop.com/events/quark-summer-techincal-projects-birla-institute-of-technology-and-sciences-bits-pilani-kk-birla-goa-campus-708142)
-        - **2023-06:** Two of my students who I taught as a volunteer for [Nirmaan](https://nirmaan.org/) qualified the JNV scholarship exam! I'm really proud of them!
-        - **2023-06:** I will be working as a summer intern at **[Jio Platforms](https://www.jio.com/platforms/)**
+        - **2025-05:** Received **IEEE CIS Travel Grant** for presenting at **IJCNN 2025 Conference**.
+        - **2025-03:** Our paper _"ExpanQN: Enhancing Android Malware Detection with Dataset Expansion and Adversarial Robustness"_ accepted for presentation at **IJCNN 2025**.
+        - **2025-01:** Started my **winter internship** at **TELUS Digital** as a **Machine Learning Intern**.
+        - **2025-01:** Our paper _"Linear Decision Trees: A Comparative Study with Insights on ReLU Neural Networks"_ presented at **[IEEE CCNC 2025](https://ccnc2025.ieee-ccnc.org/)**.
+        - **2024-11:** TA for **Relational Databases** course (BITS BSc Program on **Coursera**) during **Spring Semester ‘25**.
+        - **2024-10:** Paper _"Linear Decision Trees: A Comparative Study with Insights on ReLU Neural Networks"_ accepted for **presentation at IEEE CCNC 2025**.
+        - **2024-10:** Our paper _"GBKPA and AuxShield: Addressing Adversarial Robustness and Transferability in Android Malware Detection"_ published in **[Forensic Science International: Digital Investigation (Elsevier)](https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation)**.
+        - **2024-10:** **Received Best Paper Award** at the **[DFRWS APAC 2024 Conference](https://dfrws.org/conferences/dfrws-apac-2024/)**.
+        - **2024-08:** TA for **CS F342: Operating Systems** during **Fall Semester ‘24**.
+        - **2024-07:** Paper _"GBKPA and AuxShield: Addressing Adversarial Robustness and Transferability in Android Malware Detection"_ accepted at **DFRWS APAC 2024**.
+        - **2024-07:** Featured in the **Student Spotlight** of the **BITSology Newsletter Vol. 6** for winning the **Vimarsh 5G Hackathon**!
+        - **2024-03:** **Won the [Vimarsh 5G Hackathon](https://vimarsh.tcoe.in/)** organized by **BPR&D, Ministry of Home Affairs, and TCoE-India**. Developed a **ML-based Intrusion Detection System** and won a **₹1.5 Lakh prize**.
+        - **2024-01:** TA for **CS F215: Computer Architecture** during **Spring Semester ‘24**.
+        - **2023-11:** Received the **SOLVE Grant** from **BITS Goa Innovation, Incubation & Entrepreneurship Society** for a **Robust Intrusion Detection System** with **₹1 Lakh funding**.
+        - **2023-08:** TA for **CS F214: Logic in Computer Science** during **Fall Semester ‘23**.
+        - **2023-07:** Completed **summer internship** at **MASTH (UltraHive Healthcare Pvt Ltd)** as a **Machine Learning Intern**.
 
   - block: contact
     id: contact
