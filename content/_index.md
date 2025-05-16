@@ -58,14 +58,14 @@ sections:
         - title: Machine Learning Intern
           company: TELUS Digital 
           company_url: 'https://www.telusdigital.com/solutions/data-and-ai-solutions'
-          company_logo: google_logo
+          company_logo: Telus (1)
           date_start: '2025-01-15'
           description: Fine-tuned all-mpnet-base-v2 for semantic matching of job attributes (>98% accuracy) and Optimized inference for LLaMA 8B using quantization, speculative decoding, and vLLM
 
         - title: Machine Learning Intern
           company: MASTH (UltraHive Healthcare Pvt Ltd)
           company_url: 'https://www.linkedin.com/company/masth/?originalSubdomain=in'
-          company_logo: atlassian_logo
+          company_logo: Masth (1)
           date_start: '2023-05-01'
           date_end: '2023-07-31'
           description: Built models to detect emotion from journal entries (up to 97% accuracy) and Developed Flask APIs and Android mock apps for deployment testing
@@ -121,11 +121,8 @@ sections:
           organization: DFRWS APAC 2024 Conference
           organization_url: 'https://dfrws.org/conferences/dfrws-apac-2024/'
           date_start: '2024-10-10'
-          description: |2-
-            <img src="/images/DFRWS.jpeg" alt="DFRWS Logo" style="height:40px; margin-right:10px; vertical-align:middle;" />
-            Awarded the **Best Paper Award** at the **DFRWS APAC 2024 Conference**
-          icon: ''
-
+          description: Awarded the **Best Paper Award** at the **DFRWS APAC 2024 Conference**
+          icon: DFRWS
 
         - title: Vimarsh 5G Hackathon Winner
           organization: Bureau of Police Research and Development, Ministry of Home Affairs, and TCoE-India
@@ -143,14 +140,14 @@ sections:
           organization_url: 'https://www.bits-pilani.ac.in/goa/'
           date_start: '2023-11-01'
           description: Received the **SOLVE grant** for supporting an innovative student-led research project
-          icon: lightbulb
+          icon: BGIIES (1)
 
         - title: IEEE CIS Grant
           organization: IEEE Computational Intelligence Society
           organization_url: 'https://cis.ieee.org/'
           date_start: '2025-05-06'
           description: Awarded a research **grant** by the **IEEE Computational Intelligence Society**
-          icon: ieee_logo
+          icon: IEEE
     design:
       columns: '2'
 
