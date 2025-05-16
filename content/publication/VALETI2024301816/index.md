@@ -10,5 +10,10 @@ publication_types:
 publication: '*Forensic Science International: Digital Investigation (Elsevier)* – DFRWS APAC 2024 Selected Papers'
 doi: 10.1016/j.fsidi.2024.301816
 tags:
-  - Android;Deep Learning;Malware;Machine Learning;Robustness;Transferability
+  - Android
+  - Deep Learning
+  - Malware
+  - Machine Learning
+  - Robustness
+  - Transferability
 ---

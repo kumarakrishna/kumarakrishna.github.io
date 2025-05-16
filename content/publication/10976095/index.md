@@ -13,7 +13,11 @@ publication_types:
 publication: '*2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)*'
 doi: 10.1109/CCNC54725.2025.10976095
 tags:
-- Radio frequency;Hands;Deep learning;Noise;Artificial neural networks;Complexity
-  theory;Decision trees;Noise measurement;Random forests;Standards;Linear Decision
-  Trees;Neural Networks;Machine Learning;Deep Learning;Interpretability
+- Deep learning
+- Decision trees
+- Linear Decision Trees
+- Neural Networks
+- Machine Learning
+- Deep Learning
+- Interpretability
 ---
