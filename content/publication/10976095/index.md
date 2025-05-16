@@ -1,10 +1,10 @@
 ---
 title: 'Linear Decision Trees: A Comparative Study with Insights on ReLU Neural Networks'
 authors:
-- Nirmal Govindaraj
-- Kumarakrishna Valeti
-- Siddhant Kulkarni
-- Nandan Surani
+- Nirmal Govindaraj†
+- Kumarakrishna Valeti†
+- Siddhant Kulkarni†
+- Nandan Surani†
 - Hemant Rathore
 date: '2025-01-01'
 publishDate: '2025-05-06T12:10:20.193877Z'
