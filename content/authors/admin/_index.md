@@ -83,21 +83,23 @@ skills: ''
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-profiles:
+social:
   - icon: at-symbol
-    url: 'mailto:kumarakrishnavaleti@gmail.com'
+    icon_pack: fas
+    link: 'mailto:kumarakrishnavaleti@gmail.com'
     label: Email Me
-  - icon: brands/x
-    url: https://x.com/KumarakrishnaV
-  - icon: brands/github
-    url: https://github.com/kumarakrishna
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/kumarakrishna-valeti-b53736228/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=0pKKeXAAAAAJ&hl=en
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+  - icon: x
+    icon_pack: fab
+    link: https://x.com/KumarakrishnaV
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/kumarakrishna
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/kumarakrishna-valeti-b53736228/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=0pKKeXAAAAAJ&hl=en
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
