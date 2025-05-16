@@ -125,7 +125,7 @@ sections:
           organization: DFRWS APAC 2024 Conference
           organization_url: 'https://dfrws.org/conferences/dfrws-apac-2024/'
           date_start: '2024-10-10'
-          description: Awarded the **Best Paper Award** for the paper *GBKPA and AuxShield: Addressing Adversarial Robustness and Transferability in Android Malware Detection* at **DFRWS APAC 2024**
+          description: "Awarded the Best Paper Award for the paper 'GBKPA and AuxShield: Addressing Adversarial Robustness and Transferability in Android Malware Detection' at DFRWS APAC 2024"
           icon: DFRWS (1)
 
         - title: Vimarsh 5G Hackathon Winner
