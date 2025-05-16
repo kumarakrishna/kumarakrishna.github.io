@@ -54,21 +54,25 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Machine Learning Intern
-          company: TELUS Digital 
-          company_url: 'https://www.telusdigital.com/solutions/data-and-ai-solutions'
-          company_logo: Telus (1)
-          date_start: '2025-01-15'
-          description: Fine-tuned all-mpnet-base-v2 for semantic matching of job attributes (>98% accuracy) and Optimized inference for LLaMA 8B using quantization, speculative decoding, and vLLM
+    items:
+      - title: Machine Learning Intern
+        company: TELUS Digital 
+        company_url: 'https://www.telusdigital.com/solutions/data-and-ai-solutions'
+        company_logo: Telus (1)
+        date_start: '2025-01-15'
+        description: |
+          • Fine-tuned all-mpnet-base-v2 for mapping job titles, degrees, and majors to predefined lists, achieving >98% accuracy
+          • Optimized inference for a fine-tuned LLaMA 8B Instruct model using bits-and-bytes quantization, speculative decoding, structured outputs, and prefix caching with vLLM
 
-        - title: Machine Learning Intern
-          company: MASTH (UltraHive Healthcare Pvt Ltd)
-          company_url: 'https://www.linkedin.com/company/masth/?originalSubdomain=in'
-          company_logo: Masth (1)
-          date_start: '2023-05-01'
-          date_end: '2023-07-31'
-          description: Built models to detect emotion from journal entries (up to 97% accuracy) and Developed Flask APIs and Android mock apps for deployment testing
+      - title: Machine Learning Intern
+        company: MASTH (UltraHive Healthcare Pvt Ltd)
+        company_url: 'https://www.linkedin.com/company/masth/?originalSubdomain=in'
+        company_logo: Masth (1)
+        date_start: '2023-05-01'
+        date_end: '2023-07-31'
+        description: |
+          • Developed machine learning and deep learning based models to detect emotions from text journal entries, achieving a maximum accuracy of 97% using GloVe embeddings and TF-IDF vectoriser
+          • Created Flask APIs and a mock app using Android Studio for testing before integration into the MASTH app
 
 
         # - title: Undergraduate Researcher
@@ -121,7 +125,7 @@ sections:
           organization: DFRWS APAC 2024 Conference
           organization_url: 'https://dfrws.org/conferences/dfrws-apac-2024/'
           date_start: '2024-10-10'
-          description: Awarded the **Best Paper Award** at the **DFRWS APAC 2024 Conference**
+          description: Awarded the **Best Paper Award** for the paper *GBKPA and AuxShield: Addressing Adversarial Robustness and Transferability in Android Malware Detection* at **DFRWS APAC 2024**
           icon: DFRWS (1)
 
         - title: Vimarsh 5G Hackathon Winner
@@ -129,8 +133,8 @@ sections:
           organization_url: 'https://vimarsh.tcoe.in/'
           date_start: '2024-03-20'
           description: |2-
-            - Developed a ML-based Intrusion Detection System.
-            - Won a prize of **Rs. 1,50,000**
+            - Winner of the **National Vimarsh 5G Hackathon** with a prize of **₹1.5 Lakhs**.
+            - Developed a **robust ML-based Intrusion Detection System** integrated with Surricata.
           icon: vimarsh_logo
           url: 'https://vimarsh.tcoe.in/'
 
@@ -138,17 +142,18 @@ sections:
           organization: Innovation, Incubation & Entrepreneurship Society, BITS Goa
           organization_url: 'https://www.bits-pilani.ac.in/goa/'
           date_start: '2023-11-01'
-          description: Received the **SOLVE grant** for a **Robust Intrusion Detection System** project with funding of **Rs. 1 Lakh**
+          description: Received the **SOLVE grant** worth **₹1 Lakh** to develop a **robust Intrusion Detection System** at BITS Goa
           icon: BGIIES (1)
 
         - title: IEEE CIS Travel Grant
           organization: IEEE Computational Intelligence Society
           organization_url: 'https://cis.ieee.org/'
           date_start: '2025-05-06'
-          description: Awarded a travel **grant** by the **IEEE Computational Intelligence Society** for presenting at **IJCNN 2025 Conference**
+          description: Awarded the **IEEE CIS Travel Grant** to present research at the **IJCNN 2025 Conference**
           icon: IEEE
     design:
       columns: '2'
+
 
 
   - block: markdown
