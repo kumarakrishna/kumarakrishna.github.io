@@ -108,4 +108,6 @@ social:
 highlight_name: true
 ---
 
-I am a final year Computer Science undergraduate with a Data Science minor.
+I’m a final-year Computer Science undergraduate at [BITS Pilani, Goa](https://www.bits-pilani.ac.in/goa/), with a Minor in Data Science. My academic and research interests revolve around machine learning and security, particularly adversarial robustness. Under the guidance of [Dr. Hemant Rathore](https://www.bits-pilani.ac.in/goa/hemant-rathore/), I’ve worked on developing adversarially robust ML-based Android malware detectors, tackling both theoretical and practical challenges in mobile security and intrusion detection systems. Currently, I’m a Machine Learning Intern at TELUS Digital, contributing to real-world ML solutions.
+
+Outside of academics, I enjoy running, swimming, and playing a variety of sports. I’m an avid fan of anime and TV shows—usually binge-watching at 2x speed ([check out my favorites on MyAnimeList](https://myanimelist.net/animelist/kumarv_3)). I also closely follow football and am a huge José Mourinho fan. Always happy to chat about anything from cybersecurity and sports to anime!
