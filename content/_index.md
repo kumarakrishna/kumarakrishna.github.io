@@ -139,8 +139,8 @@ sections:
           url: 'https://vimarsh.tcoe.in/'
 
         - title: SOLVE Grant
-          organization: Innovation, Incubation & Entrepreneurship Society, BITS Goa
-          organization_url: 'https://www.bits-pilani.ac.in/goa/'
+          organization: BITS Goa Innovation Incubation & Entrepreneurship Society (BGIIES)
+          organization_url: 'https://www.bits-pilani.ac.in/goa/bits-birac-bionest/bgiies/'
           date_start: '2023-11-01'
           description: Received the **SOLVE grant** worth **₹1 Lakh** to develop a **robust Intrusion Detection System** at BITS Goa
           icon: BGIIES (1)
